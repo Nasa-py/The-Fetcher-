@@ -249,6 +249,6 @@ This tool is for personal use only. Please respect copyright laws and terms of s
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made by [@Nasa,py](https://github.com/Nasa-py)**
 
 ⭐ Star this repository if you find it helpful!
