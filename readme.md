@@ -228,14 +228,6 @@ This tool is for personal use only. Please respect copyright laws and terms of s
 - **[FFmpeg](https://ffmpeg.org/)** - Media processing toolkit
 - All contributors and supporters of this project
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/media-downloader/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/media-downloader/discussions)
-
 ## 🔮 Future Enhancements
 
 - [ ] Batch download support
